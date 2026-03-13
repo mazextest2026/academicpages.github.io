@@ -1,0 +1,11 @@
+---
+title: "In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation"
+collection: publications
+category: conferences
+permalink: /publication/2024-01-01-in-context-sharpness-alerts-hallucination-mitigation
+excerpt: 'This paper presents an inner representation perspective for hallucination mitigation using in-context sharpness as alerts.'
+date: 2024-01-01
+venue: 'ICML 2024'
+paperurl: ''
+citation: 'Chen, S., Xiong, M., Liu, J., Wu, Z., Xiao, T., Gao, S., He, J. (2024). &quot;In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation.&quot; <i>ICML 2024</i>.'
+---
